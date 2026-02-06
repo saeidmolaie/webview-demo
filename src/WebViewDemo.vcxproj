@@ -16,7 +16,7 @@
     <ProjectGuid>{c5b0022a-179d-41ae-8715-1c1fb268e79b}</ProjectGuid>
     <RootNamespace>Sandbox</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Xplorer</ProjectName>
+    <ProjectName>WebViewDemo</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
@@ -96,7 +96,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="src\FileSystem.cpp" />
-    <ClCompile Include="src\Xplorer.cpp" />
+    <ClCompile Include="src\WebViewDemo.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

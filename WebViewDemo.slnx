@@ -2,5 +2,5 @@
   <Configurations>
     <Platform Name="x64" />
   </Configurations>
-  <Project Path="src/Xplorer.vcxproj" Id="c5b0022a-179d-41ae-8715-1c1fb268e79b" />
+  <Project Path="src/WebViewDemo.vcxproj" Id="c5b0022a-179d-41ae-8715-1c1fb268e79b" />
 </Solution>
